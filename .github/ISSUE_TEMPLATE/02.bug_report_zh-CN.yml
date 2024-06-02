@@ -8,11 +8,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        \U0001F44B Hi，你好，非常感谢你对 alova 的支持，它真的很重要！
+        :wave: Hi，你好，非常感谢你对 alova 的支持，它真的很重要！
 
         **我们期望将 alova 打造成大家共同的项目，以开放包容的态度鼓励每位开发者成为 alova 社区的贡献者，如果你愿意，可尝试通过提交PR参与贡献，让你的代码为全世界的开发者提供价值，具体贡献请[参阅贡献指南](https://github.com/alovajs/alova/blob/main/CONTRIBUTING.zh-CN.md)！**
 
-        \U000026A0 在提交 bug 报告前，请阅读以下内容：
+        :warning: 在提交 bug 报告前，请阅读以下内容：
         - 提交bug前可先通过 [官方文档](https://alova.js.org) 寻找解决办法;
         - 加入[Discord](https://discord.gg/S47QGJgkVb)或[QQ频道](https://pd.qq.com/s/1cdjx0nnw)在线交流。
         - 确认你搜索过 [历史 issue](https://github.com/alovajs/alova/issues)，并且没有发现同样的问题。
@@ -21,7 +21,7 @@ body:
   - type: checkboxes
     attributes:
       label: 这个问题是否已经存在？
-      description: \U000026A0 提交前请在 Issue 中搜索你要提交的问题是否已经存在
+      description: ":warning: 提交前请在 Issue 中搜索你要提交的问题是否已经存在"
       options:
         - label: 我已经确认这个 Issue 没有被报告过
           required: true
