@@ -1,5 +1,5 @@
 name: "\U0001F41E Bug Report"
-description: Report issues in Chinese to help improve alova
+description: Create a report to help us improve alova
 title: "[Bug]: "
 labels: ['bug:need-confirm']
 assignees:
@@ -8,11 +8,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        \U0001F44B Hi, thank you very much for your support for alova, it is really important!
+        "\U0001F44B Hi, thank you very much for your support for alova, it is really important!"
 
         **We hope to build alova into a project shared by everyone, and encourage every developer to become a contributor to the alova community with an open and inclusive attitude. If you are willing, you can try to participate in the contribution by submitting PR, so that your code can provide value for developers all over the world. For specific contributions, please [refer to the contribution guide](https://github.com/alovajs/alova/blob/main/CONTRIBUTING.md)!**
 
-        \U000026A0 Before submitting a bug report, please read the following:
+        "\U000026A0 Before submitting a bug report, please read the following:"
         - Before submitting a bug, you can first look for a solution through the [official documentation](https://alova.js.org);
         - Join the [Discord](https://discord.gg/S47QGJgkVb) or [QQ group](https://pd.qq.com/s/1cdjx0nnw) for online discussions.
         - Confirm that you have searched the [historical issues](https://github.com/alovajs/alova/issues) and have not found the same problem.
@@ -21,7 +21,7 @@ body:
   - type: checkboxes
     attributes:
       label: Has this issue been reported before?
-      description: \U000026A0 Please search the Issue to confirm that the issue you are about to submit has not been reported before
+      description: "\U000026A0 Please search the Issue to confirm that the issue you are about to submit has not been reported before"
       options:
         - label: I have confirmed that this Issue has not been reported before
           required: true
@@ -85,11 +85,11 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: browsers
     attributes:
       label: System Information
-      description: Paste the output of the following command: `npx envinfo --system --npmPackages "alova,vue,react,svelte" --binaries --browsers`
+      description: "Paste the output of the following command: `npx envinfo --system --npmPackages "alova,vue,react,svelte" --binaries --browsers`"
 
   - type: textarea
     id: remark
