@@ -86,7 +86,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: browsers
     attributes:
       label: 系统信息
