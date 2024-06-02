@@ -89,7 +89,9 @@ body:
     id: browsers
     attributes:
       label: System Information
-      description: "Paste the output of the following command: `npx envinfo --system --npmPackages "alova,vue,react,svelte" --binaries --browsers`"
+      description: "Paste the output of the following command: `npx envinfo --system --npmPackages alova,vue,react,svelte --binaries --browsers`"
+      render: shell
+      placeholder: System, Binaries, Browsers
 
   - type: textarea
     id: remark
