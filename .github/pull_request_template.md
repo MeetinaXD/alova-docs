@@ -6,12 +6,12 @@
 
 **相关 Issue / Related Issue**
 
-<!-- [Issue ID] -->
+[Issue ID]
 <!-- 请注意，我们不接受未经确认的 PR 提交。 / We do not accept PR without confirmation. -->
 
 **这个 PR 做了什么？/ What does this PR do?**
 
-<!-- [简要描述所做更改 / Describe the changes briefly] -->
+[简要描述所做更改 / Describe the changes briefly]
 
 
 **这个 PR 是什么类型？/ What type of PR is this?**
