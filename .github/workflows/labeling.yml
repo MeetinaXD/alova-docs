@@ -2,7 +2,8 @@ name: Issue labeler
 on:
   issues:
     types: [ opened ]
-    tags: [ lang:english ]
+    tags:
+      - "lang:english"
 
 permissions:
   contents: read
