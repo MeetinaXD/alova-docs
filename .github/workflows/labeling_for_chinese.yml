@@ -2,14 +2,13 @@ name: Issue labeler
 on:
   issues:
     types: [ opened ]
-    labels:
-      - "lang:chinese"
 
 permissions:
   contents: read
 
 jobs:
   label-component:
+    if: github.event.label.name == 'lang:chinese'
     runs-on: ubuntu-latest
 
     permissions:
