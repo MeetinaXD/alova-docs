@@ -2,7 +2,7 @@ name: Issue labeler
 on:
   issues:
     types: [ opened ]
-    tags: [ lang:english ]
+    tags: [ lang:chinese ]
 
 permissions:
   contents: read
@@ -26,7 +26,7 @@ jobs:
         uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
         with:
-          template-path: .github/ISSUE_TEMPLATE/01.bug_report.yml
+          template-path: .github/ISSUE_TEMPLATE/02.bug_report_zh-CN.yml
 
       - name: Set labels based on framework field
         uses: redhat-plumbers-in-action/advanced-issue-labeler@v2

@@ -3,6 +3,7 @@ description: 使用中文报告问题，帮助 alova 变得更好
 title: "[Bug]: "
 labels:
   - "bug:need-confirm"
+  - "lang:chinese"
 assignees:
   - MeetinaXD
 body:

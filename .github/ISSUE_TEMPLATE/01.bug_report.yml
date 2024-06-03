@@ -3,6 +3,7 @@ description: Create a report to help us improve alova
 title: "[Bug]: "
 labels:
   - "bug:need-confirm"
+  - "lang:english"
 assignees:
   - MeetinaXD
 body:
