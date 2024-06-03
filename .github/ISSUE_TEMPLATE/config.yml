@@ -1,5 +1,14 @@
 blank_issues_enabled: false
 contact_links:
+
+  - name: Feature Request
+    url: https://github.com/orgs/alovajs/discussions
+    about: Suggest new features for consideration.
+
+  - name: Questions & Discussions
+    url: https://github.com/alovajs/alova/discussions
+    about: Use GitHub discussions for your questions and discussions.
+
   - name: Official Documentation
     url: https://alova.js.org
     about: Before submitting a bug, you can first look for a solution through the official documentation
@@ -8,10 +17,6 @@ contact_links:
     url: https://discord.gg/S47QGJgkVb
     about: Ask questions and discuss with other users in real time.
 
-  - name: QQ频道
-    url: https://pd.qq.com/s/1cdjx0nnw
-    about: 在 QQ 频道中和我们交流.
-
-  - name: Questions & Discussions
-    url: https://github.com/alovajs/alova/discussions
-    about: Use GitHub discussions for your questions and discussions.
+  - name: 加入微信群
+    url: https://alova.js.org/img/wechat_qrcode.jpg
+    about: 在微信群聊中和我们交流.

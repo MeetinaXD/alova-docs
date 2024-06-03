@@ -11,13 +11,21 @@ body:
       value: |
         :wave: Hi，你好，非常感谢你对 alova 的支持，它真的很重要！
 
-        **我们期望将 alova 打造成大家共同的项目，以开放包容的态度鼓励每位开发者成为 alova 社区的贡献者，如果你愿意，可尝试通过提交PR参与贡献，让你的代码为全世界的开发者提供价值，具体贡献请[参阅贡献指南](https://github.com/alovajs/alova/blob/main/CONTRIBUTING.zh-CN.md)！**
+        **我们期望将 alova 打造成大家共同的项目，以开放包容的态度鼓励每位开发者成为 alova 社区的贡献者，如果你愿意，可尝试通过提交 PR 参与贡献，让你的代码为全世界的开发者提供价值，具体贡献请 [参阅贡献指南](https://github.com/alovajs/alova/blob/main/CONTRIBUTING.zh-CN.md)！**
 
-        :warning: 在提交 bug 报告前，请阅读以下内容：
-        - 提交bug前可先通过 [官方文档](https://alova.js.org) 寻找解决办法;
-        - 加入[Discord](https://discord.gg/S47QGJgkVb)或[QQ频道](https://pd.qq.com/s/1cdjx0nnw)在线交流。
-        - 确认你搜索过 [历史 issue](https://github.com/alovajs/alova/issues)，并且没有发现同样的问题。
-        - 如果是一个问题或疑惑，可移步到 [Discussions](https://github.com/alovajs/alova/discussions) 发帖，这有助于作者更好地打理alova社区。
+        :warning: 在报告 Bug 前，请阅读以下内容：
+        - 报告前先通过 [官方文档](https://alova.js.org) 寻找解决办法。
+        - 确认已搜索过 [历史 issue](https://github.com/alovajs/alova/issues)，并且没有发现同样的问题。
+        - 如果使用上有困惑，可移步到 [Discussions](https://github.com/alovajs/alova/discussions) 发帖讨论，这有助于作者更好地打理alova社区。
+        - 可加入 [Discord](https://discord.gg/S47QGJgkVb) 或 [微信群](https://alova.js.org/img/wechat_qrcode.jpg)在线交流。
+
+  - type: checkboxes
+    attributes:
+      label: 这是否是一个 Bug？
+      description: ":warning: 如果你要报告一个提案，或有使用上的困惑，请返回 Issue 新建页面查看其他选项。"
+      options:
+        - label: 我已经确认我要报告的是一个 Bug
+          required: true
 
   - type: checkboxes
     attributes:
