@@ -1,4 +1,4 @@
-name: Issue labeler for Chinese
+name: Issue labeler
 on:
   issues:
     types: [ opened ]
