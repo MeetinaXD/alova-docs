@@ -20,6 +20,7 @@ body:
         - 可加入 [Discord](https://discord.gg/S47QGJgkVb) 或 [微信群](https://alova.js.org/img/wechat_qrcode.jpg)在线交流。
 
   - type: checkboxes
+    id: is-this-a-bug
     attributes:
       label: 这是否是一个 Bug？
       description: ":warning: 如果你要报告一个提案，或有使用上的困惑，请返回 Issue 新建页面查看其他选项。"
@@ -28,6 +29,7 @@ body:
           required: true
 
   - type: checkboxes
+    id: have-been-report-before
     attributes:
       label: 这个问题是否已经存在？
       description: ":warning: 提交前请在 Issue 中搜索你要提交的问题是否已经存在"

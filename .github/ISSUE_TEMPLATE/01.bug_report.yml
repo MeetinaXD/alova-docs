@@ -18,7 +18,9 @@ body:
         - Confirm that you have searched the [historical issues](https://github.com/alovajs/alova/issues) and have not found the same problem.
         - If it is a question or doubt, you can post it on [Discussions](https://github.com/alovajs/alova/discussions), which will help the author manage the alova community better.
         - Join the [Discord](https://discord.gg/S47QGJgkVb) or [WeChat group](https://alova.js.org/img/wechat_qrcode.jpg) for online discussions.
+
   - type: checkboxes
+    id: is-this-a-bug
     attributes:
       label: Is this a Bug?
       description: ":warning: If you want to report a proposal or have difficulties in use, please return to the New Issue page and check other options."
@@ -27,6 +29,7 @@ body:
           required: true
 
   - type: checkboxes
+    id: have-been-report-before
     attributes:
       label: Has this issue been reported before?
       description: ":warning: Please search the Issue to confirm that the issue you are about to submit has not been reported before"

@@ -1,1 +1,0 @@
-test PR template for zh_cn
