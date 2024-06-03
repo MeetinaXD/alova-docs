@@ -2,7 +2,7 @@ name: Issue labeler
 on:
   issues:
     types: [ opened ]
-    tags:
+    labels:
       - "lang:chinese"
 
 permissions:
