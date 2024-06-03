@@ -101,6 +101,8 @@ body:
     attributes:
       label: 系统信息
       description: 粘贴以下命令的输出：`npx envinfo --system --npmPackages "alova,vue,react,svelte" --binaries --browsers`
+      render: shell
+      placeholder: System, Binaries, Browsers
 
   - type: textarea
     id: remark
