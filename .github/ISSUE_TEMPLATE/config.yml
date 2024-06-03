@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
 
   - name: Feature Request
-    url: https://github.com/orgs/alovajs/discussions
+    url: https://github.com/orgs/alovajs/discussions?category=feature_request
     about: Suggest new features for consideration.
 
   - name: Questions & Discussions
