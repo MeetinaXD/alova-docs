@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
 
-  - name: ":rocket: Feature Request"
+  - name: "\U0001F680 Feature Request"
     url: https://github.com/orgs/alovajs/discussions/new?category=feature-request
     about: Suggest new features for consideration.
 
