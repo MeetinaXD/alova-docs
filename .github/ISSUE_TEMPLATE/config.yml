@@ -1,12 +1,12 @@
 blank_issues_enabled: false
 contact_links:
 
-  - name: Feature Request
-    url: https://github.com/MeetinaXD/alova-docs/discussions/new?category=feature-request
+  - name: ":rocket: Feature Request"
+    url: https://github.com/orgs/alovajs/discussions/new?category=feature-request
     about: Suggest new features for consideration.
 
   - name: Questions & Discussions
-    url: https://github.com/alovajs/alova/discussions
+    url: https://github.com/orgs/alovajs/discussions/new?category=q-a
     about: Use GitHub discussions for your questions and discussions.
 
   - name: Official Documentation
