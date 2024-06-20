@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "meetinaxd-test-a": "2.0.0",
+    "meetinaxd-test-b": "2.0.0",
+    "meetinaxd-test-shared": "2.0.0"
+  },
+  "changesets": []
+}
