@@ -1,5 +1,11 @@
 # meetinaxd-test-a
 
+## 2.1.0
+
+### Minor Changes
+
+- [`3b57ebd`](https://github.com/MeetinaXD/alova-docs/commit/3b57ebd4631ff11caa06737585127a3ff081054a) Thanks [@MeetinaXD](https://github.com/MeetinaXD)! - chore: just a test
+
 ## 2.0.0
 
 ### Major Changes
