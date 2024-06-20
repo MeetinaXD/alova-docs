@@ -42,6 +42,7 @@ jobs:
         with:
           title: "[CI] Release"
           commit: "[CI] Release"
+          publish: pnpm exec changeset publish
         env:
           # Needs access to push to main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
