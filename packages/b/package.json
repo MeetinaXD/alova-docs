@@ -1,5 +1,5 @@
 {
-  "name": "@meetinaxd-test/b",
+  "name": "meetinaxd-test-b",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "@test/shared": "workspace:*"
+    "meetinaxd-test-shared": "workspace:*"
   }
 }

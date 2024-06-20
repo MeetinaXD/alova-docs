@@ -17,13 +17,13 @@ importers:
 
   packages/a:
     dependencies:
-      '@test/shared':
+      meetinaxd-test-shared:
         specifier: workspace:*
         version: link:../shared
 
   packages/b:
     dependencies:
-      '@test/shared':
+      meetinaxd-test-shared:
         specifier: workspace:*
         version: link:../shared
 
